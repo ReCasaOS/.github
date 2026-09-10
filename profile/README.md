@@ -2,7 +2,7 @@
 
 CasaOS is the dashboard a lot of people's first home server runs: Docker apps, files, shares and storage, on a box you keep at home. Upstream [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) is not archived, so it still looks alive — but the core has not been pushed since August 2025, the dashboard since September 2025, and the other five components since April 2025. IceWhale moved to a commercial product.
 
-ReCasaOS is that distribution, and it kept shipping. Releases **v0.4.40** through **v0.4.62**.
+ReCasaOS is that distribution, and it kept shipping. Releases **v0.4.40** through **v0.4.63**.
 
 ```bash
 curl -fsSL https://github.com/ReCasaOS/CasaOS-Install/releases/latest/download/install.sh | sudo bash
