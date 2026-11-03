@@ -1,3 +1,9 @@
+<p align="center"><img src="https://raw.githubusercontent.com/ReCasaOS/.github/main/assets/recasaos-banner.svg" alt="ReCasaOS" width="640"></p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C6K229ZZRH)
+
+[Support ReCasaOS](https://github.com/ReCasaOS/.github/blob/main/FUNDING.md)
+
 ## ReCasaOS — a maintained distribution of CasaOS
 
 CasaOS is the dashboard a lot of people's first home server runs: Docker apps, files, shares and storage, on a box you keep at home. Upstream [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) is not archived, so it still looks alive — but the core has not been pushed since August 2025, the dashboard since September 2025, and the other five components since April 2025. IceWhale moved to a commercial product.
